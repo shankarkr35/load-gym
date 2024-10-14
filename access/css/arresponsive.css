@@ -1,0 +1,42 @@
+@media only screen and (max-width: 495px){
+    .benner_Courses_page_slider_main_cont {
+        top: 40%;
+    }
+    .benner_Courses_page_slider_main_cont {
+        right: 20%;
+    }
+}
+@media only screen and (max-width: 700px){
+
+.home_baneer_slider_main_grid_cont {
+    right: 0%;
+}
+.benner_Courses_page_slider_main_cont {
+    right: 0;
+}
+.fancybox-skin {
+    right: 3% !important;
+}
+}
+@media only screen and (max-width: 768px){
+    .home_baneer_slider_main_grid_cont {
+        right: 0%;
+    }
+    }
+@media only screen and (max-width: 767px){
+    li.nav-item.cart_counter_header {
+        right: 75% !important;
+        top:20%;
+    }
+    .checkout-banner .contanier .checkout-page .total-kd {
+        width: 100%;
+        margin-right: 10px;
+    }
+
+}
+@media only screen and (max-width: 991px){
+.benner.home_baneer_from {
+    right: auto !important;
+}
+
+}

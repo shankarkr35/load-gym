@@ -1,0 +1,1067 @@
+@media only screen and (max-width:1300px){
+
+
+    header .inner-content form{
+
+        left: 700px;
+    }
+
+}
+@media only screen and (max-width: 470px){
+table.table {
+    width: 100%!important;
+}
+}
+@media (max-width: 768px) {
+    header{
+        z-index: 789;
+    }
+
+    nav.navbar {
+        margin-top: 0;
+        padding: 0;
+    }  
+    nav.navbar {
+        height: 60px;
+    }
+    header {
+        height: auto;
+    }
+    button.navbar-toggler.collapsed {
+        border: none;
+        outline: none;
+    }
+    button.navbar-toggler:focus{
+        border: none;
+        outline: none;
+        box-shadow: unset;
+    }
+    .navigation-links {
+        justify-content: flex-start;
+        background: #191917;
+        padding: 20px;
+        position: absolute;
+        width: 100%;
+        left: 0;
+        top: 60px;
+        height: 80vh;
+        z-index: 1;
+    }
+    .navigation-links .navbar-nav{
+        gap: 25px;
+    }
+    li.nav-item.cart_counter_header {
+          cursor: pointer;
+          position: absolute;
+          right: 20%;
+    }
+    .heder_login_text a.nav-link.login {
+    position: relative;
+    left: 70%;
+}
+
+    /********************footer**********************/
+    
+    .footer_main{
+        height: auto;
+    }
+    
+    /*===============home page===========*/
+  
+    .trainer_img{
+        height: 350px;
+    }
+    .home_Courses .col-sm-6{
+        width: auto;
+    }
+    .home_our_schedule_alayout ul.nav.nav-pills{
+        justify-content: left;
+    }
+    .home_our_schedule_alayout{
+        width: 100%;
+    }
+    .home_our_schedule_alayout ul.nav.nav-pills li:hover a.nav-link,
+    .home_our_schedule_alayout ul.nav.nav-pills li a.nav-link.active {
+        width: auto;
+    }
+    .home_Event{
+        padding-top: 50px;
+    }
+    .home_Event .row{
+        /* justify-content: left; */
+    }
+    .home_Event .col-sm-4{
+        width: auto;
+    }
+    .home_gallery .col-sm-3{
+        width: auto;
+    }
+    
+    .home_gallery_slider .col-sm-3 {
+    width: 50%;
+}
+.gallery_slider_img a img {
+    height: 180px;
+    width: 100%;
+}
+.gallery_slider_img {
+    height: 180px;
+    margin-bottom: 18px;
+}
+.home_gallery .home_our_schedule_title {
+    margin-bottom: 30px;
+}
+.home_our_schedule_alayout ul.nav.nav-pills {
+        height:auto;
+    }
+.home_our_schedule_alayout ul.nav.nav-pills li {
+    padding: 0 7px;
+    border-radius: 0;
+    line-height: revert;
+}
+.home_our_schedule_alayout ul.nav.nav-pills li a.nav-link.active {
+    font-size: 13px;
+    padding: 0 12px;
+}
+.home_our_schedule {
+    width: 100%;
+    height: auto;
+    padding-top: 20px;
+}
+.our_schedule_tabs_table tr td {
+    font-size: 12px;
+    width: auto;
+}
+.home_trainer_about {
+    padding-top: 0;
+}
+.home_abot_grid h1, .home-course-title h1 {
+    font-size: 26px;
+    line-height: initial;
+}
+.home_baneer_slider_main_grid_cont h1 {
+    font-size: 27px;
+    margin-bottom: 0;
+    line-height: initial;
+}
+.home_baner .home_baneer_slider_main_grid img {
+    height:80vh;
+}
+.benner form {
+    width: 100%;
+    padding-top: 10px;
+    margin-top: 0;
+    padding-bottom: 0;
+        padding: 20px 20px;
+}
+.benner.home_baneer_from textarea {
+    height: 39px;
+    padding-left: 5px;
+    font-size: 12px;
+}
+.benner form .input ,.benner.home_baneer_from textarea{
+    margin: 0;
+    padding-left: 5px;
+    margin-bottom: 15px;
+    font-size:13px;
+    width: 100%;
+    
+}
+
+.home_baneer_slider_main_grid_cont {
+    top: 12%;
+    width: 100%;
+    text-align: center;
+    padding: 0 15px;
+    left:0;
+}
+.home_Courses_grid_cont {
+    padding: 0;
+}
+.home_Courses_grid_cont p {
+    font-size: 13px;
+    line-height: 20px;
+}
+.home_gallery {
+    padding-top: 20px;
+}
+.footer_main .col-sm-2 {
+    width: 30%;
+}
+.footer_main .col-sm-3 {
+    width: 60%;
+}
+.footer_logo img {
+    width: 90px;
+}
+.footer_main {
+    padding-top: 0;
+}
+.footer_menu h1 {
+    font-size: 18px;
+    margin-bottom: 0;
+}
+.footer_menu ul li {
+    padding: 10px 0;
+}
+.footer_menu ul li span, .footer_menu ul li span a {
+    font-size: 13px;
+}
+.footer_menu ul {
+    width: 100%;
+}
+.social_footer li {
+    margin-right: 6px;
+    margin-top: 0;
+}
+.social_footer i {
+    width: 30px;
+    height: 30px;
+    font-size: 12px;
+}
+.footer_map {
+    margin-top: 20px;
+}
+.footer_menu ul li img {
+    margin-right: 10px;
+}
+
+.checkout-banner {
+    margin-top: 0;
+    height: auto;
+    width: 100%;
+}
+.checkout-banner .contanier .checkout-page {
+    padding-top: 0;
+    width: 95%;
+}
+.profile_tables th {
+    font-size: 12px;
+    line-height: 15px;
+}
+.contact_page {
+    margin-top: 40px !important;
+}
+.coupon-code {
+    margin-right: 10px;
+}
+    
+    
+}
+/* =========user-profile==============py========== */
+
+@media only screen and (max-width:1200px){
+    .footer_main {
+        height: auto;
+        width: 100%;
+        padding-top: 30px;
+    }
+    .footer_main .col-sm-7 {
+        width: 100%;
+        height: auto;
+    }
+    /* ========home======= */
+
+    .home_Event .col-sm-4 {
+        width: 32%;
+    }
+    .home_our_schedule_alayout ul.nav.nav-pills {
+        height: auto;
+    }
+}
+@media only screen and (max-width:881px){
+
+    .Renew_now { 
+        font-size: 10px;
+        padding: 1px;
+        margin-left: 0px;
+    }
+
+.col-sm-3 {
+    width: 100%;
+}
+.col-sm-9 {
+    width: 100%;
+}
+.pro-cart-img_cont {
+    width:40px;
+    height: 40px;
+    background: #191917;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+    
+}
+.pro-cart-img img {
+    width: 35px;
+    object-fit: cover;
+}
+.profile_tables td {
+    color: #fff;
+    line-height: initial;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    color: #191917;
+}
+.profile_headlinens h1 {
+    color: var(--primary-color);
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 700;
+}
+.user-profile .nav .nav-link {
+    font-size: 15px;
+
+}
+.user-profile .col-12.col-sm-3.mt-20 {
+    padding: 0;
+}
+
+/* =========event========== */
+
+.events_cont .home_our_schedule_title h1 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+/* ==========user-profile========== */
+
+.book_a_class_new_add {
+    width: 100%;
+}
+
+
+}
+
+@media only screen and (max-width:991px){
+
+.logo img {
+    width: 55px;
+    height: auto;
+    object-fit: cover;
+}
+li.nav-item.cart_counter_header {
+    position: absolute;
+    right: 25%;
+}
+.heder_login_text a.nav-link.login {
+    position: relative;
+    left: 70%;
+}
+.trainer_img img {
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+}
+.gallery_slider_img a img {
+    width: 100%;
+    height: 250px;
+}
+.col-sm-3 {
+    width: 100%;
+}
+.col-sm-9 {
+    width: 100%;
+}
+
+.pro-cart-img_cont {
+    width:40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+    
+}
+
+.pro-cart-img img {
+    width: 35px;
+    object-fit: cover;
+}
+.profile_tables td {
+    font-size: 13px;
+}
+.profile_headlinens h1 {
+    font-size: 20px;
+}
+.user-profile .nav .nav-link {
+    font-size: 15px;
+
+}
+.user-profile .col-12.col-sm-3.mt-20 {
+    padding: 0;
+}
+.home_our_schedule_title h1 {
+    margin-bottom: 20px;
+}
+
+/* ============about-us========== */
+
+.about_cart_new_desjd {
+    width: 60%;
+}
+.about-us-content {
+    width: 100%;
+    padding: 30px 10px;
+    margin-top: 80px;
+}
+.benner_Courses_page_slider_main_img img {
+    width: 100%;
+    height: 400px;
+}
+.about_slider_con .slide_show {
+    width: 100%;
+    height: 400px;
+}
+.image-slot{
+    height: 180px;
+}
+/* =========event========== */
+
+
+.home_Event {
+    padding-top: 10px;
+}
+.events_cont .home_our_schedule_title h1 {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+/* =========courser========== */
+.benner_Courses_page_slider_main_img img {
+    width: 100%;
+    height: 400px;
+
+}
+.benner_Courses_page_slider_main_cont {
+    position: absolute;
+    top: 55%;
+}
+
+/* =========course-details========== */
+
+.choose-your-subscription {
+    margin-left: 0px; 
+    width: 100%;
+}
+.description .dolor .show-more p {
+    width: 100% !important;
+}
+.description {
+    flex-wrap: wrap;
+}
+.home_baneer_slider_main_grid img {
+    height:500px;
+}
+/* ============home============ */
+
+.trainer_img img {
+    margin-top: 0px;
+    object-fit: contain;
+}
+.home_Courses .col-sm-6 {
+    width: 100%;
+}
+.home_our_schedule_alayout ul.nav.nav-pills {
+    height: auto;
+}
+
+.home_our_schedule_alayout {
+    width: 100%;
+}
+.home_Event .col-sm-4 {
+    width: 50%;
+}
+.benner .lose {
+    padding: 0;
+}
+.benner.home_baneer_from {
+    position: initial;
+    margin: 0 auto;
+    position: absolute;
+    bottom: 25px;
+    top: 35%;
+    z-index: 99;
+    right: 2%;
+    transform: translate(0px, -50%);
+}
+.home_baneer_slider_main_grid_cont h1 {
+    font-size: 30px;
+    line-height: 20px;
+}
+.benner .lose button {
+    font-size: 13px;
+    width: 90%;
+    padding: 10px 7px;
+    border-radius: 5px;
+    text-align: center;
+}
+#loading {
+    background-size: 21%!important;
+}
+.home_baneer_slider_main_grid_cont p {
+    font-size: 13px;
+}
+.home_our_schedule_alayout ul.nav.nav-pills a {
+    font-size: 13px;
+    padding: 0 0;
+}
+
+/* ==========car-items======== */
+
+.table-responsive {
+    /* overflow-x: hidden !important; */
+}
+
+/* =============user-login========= */
+.form-main  {
+    width: 100%;
+    height: 100%;
+    background: center;
+    background-size: cover !important;
+}
+.login-form_new_desid {
+    justify-content: inherit;
+}
+.login-form {
+    width: 100%;
+}
+
+/* =========gallery========== */
+.gallary-banner-count {
+    align-items: center;
+}
+.gallary-banner img {
+    height: 150px;
+}
+.gallary-banner-img {
+    margin-top: 0px;
+}
+.gallary-banner {
+    margin-top: 0px;
+}
+.gallary-banner-count {
+    font-size: 30px;
+}
+.fancybox-img img {
+    object-fit: cover;
+    height: 250px;
+    width: 250px;
+}
+.fancybox-img {
+    object-fit: cover;
+    height: 250px;
+    width: 250px;
+}
+
+/* ==========success=========== */
+
+.order-received {
+    width: 100%;
+    padding: 50px 50px;
+}
+.order-received-count {
+    width: 100%;
+    padding: 20px 10px;
+}
+.home_ourr_event {
+    height: 340px;
+}
+
+}
+
+
+@media only screen and (max-width:767px){
+
+    .col-sm-3 {
+        width: 100%;
+    }
+    .col-sm-9 {
+        width: 100%;
+    }
+    .pro-cart-img_cont {
+        width:35px;
+        height: 35px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-right: 5px;
+        
+    }
+    li.nav-item.cart_counter_header {
+       
+        position: absolute;
+        right: 25%;
+    }
+    tr.powerbody .carter .body-power img {
+        width: 20px;
+        height: 20px;
+    }
+    tr.powerbody .carter .body-power {
+        width: 25px;
+        height: 25px;
+    }
+    .pro-cart-img img {
+        width: 30px;
+        object-fit: cover;
+    }
+    .profile_tables td {
+        font-size: 13px;
+    }
+    .profile_headlinens h1 {
+        color: var(--primary-color);
+        text-transform: uppercase;
+        font-size: 20px;
+        font-weight: 700;
+        text-align: center;
+        margin-top: 30px;
+    }
+    .user-profile .nav .nav-link {
+        font-size: 20px;
+    
+    }
+    .user-profile .col-12.col-sm-3.mt-20 {
+        padding: 0;
+    }
+    .fancybox-inner {
+        height: auto !important;
+        width: 100% !important;
+    }
+
+    
+    /* ============about-us========== */
+
+    .about_cart_new_desjd {
+        width: 80%;
+    }
+    .about-us-content {
+        width: 100%;
+        margin-top: 80px;
+    }
+    .about_slider_con .slide_show {
+        width: 100%;
+        height: 400px;
+    }
+     /* =========courses========== */
+     .benner_Courses_page_slider_main_img img {
+        width: 100%;
+        height: 400px;
+    }
+    .home_our_schedule_title h1 {
+        margin-bottom: 0px;
+     }
+    .Courses_slider_all_cont {
+        width: 100%;
+    }
+    .Courses_slider_name text {
+        font-size: 10px;
+    }
+
+    /* ============event============ */
+
+    .about_slider_con .slide_show {
+        width: 100%;
+        height: 400px;
+    }
+    .events_cont .home_our_schedule_title h1 {
+        margin-top: 20px;
+        margin-bottom: 30px;
+
+    }
+    .home_Event {
+        padding-top: 10px;
+    }
+
+    /* =========course-details========== */
+
+    .home_baneer_slider_main_grid img {
+        height: 400px;
+    }
+    .gym_headline {
+        padding: 10px 0;
+    }
+    /* ===========home========= */
+    .home_our_schedule_title h1 {
+        margin-bottom: 20px;
+    }
+    .benner .lose button {
+        width: 100%;
+        margin: auto;
+    }
+    .home_Event .col-sm-4 {
+        width: 60%;
+        margin: auto;
+    }
+    .benner.home_baneer_from {
+        position: initial;
+        width: 90%;
+        margin: 0 auto;
+        position: absolute;
+        bottom: 25px;
+        top: auto;
+        left: 50%;
+        z-index: 0;
+        transform: translate(-50%, 0);
+    }
+    .home_our_schedule_alayout ul.nav.nav-pills a .mount {
+        margin-bottom: 10px;
+    }
+    .lose span{
+        padding-left: 0 !important;
+    }
+    /* ==========car-items========== */
+
+    .checkout-banner .contanier .checkout-page .placeed-order button {
+        font-size: 10px;
+        padding: 5px 15px;
+    }
+    .Payment_method {
+        margin-left: 2px;
+        margin-top: 20px;
+    }
+    .checkout-banner .contanier .checkout-page .placeed-order {
+        margin-right: 0;
+    }
+    .checkout-banner .contanier .checkout-page .total-kd .coupon-apply button {
+        font-size: 10px;
+    }
+    .checkout-banner .contanier .checkout-page .total-kd .coupon-code input {
+        width: 120px !important;
+    }
+    .checkout-banner .contanier .checkout-page .total-kd .coupon-code input {
+        font-size: 10px;
+    }
+    .checkout-banner .contanier .checkout-page .total-kd {
+        width: 100%;
+        margin-left: 10px !important;
+    }
+    table.table {
+        width: 90% !important;
+    }
+    .Renew_now {
+        margin-left: 0px !important;
+        font-size: 6px;
+        font-weight: 700;
+        padding: 4px 0px !important;
+    }
+    .checkout-banner .contanier .checkout-page .total-kd .open-code {
+        margin-left: 0px;
+    }
+    .checkout-banner .contanier .checkout-page .cart-total {
+        width: 95%;
+        margin-top: 30px;
+    }
+    /* ========trainer============ */
+
+    .trainers_cont .col-sm-3 {
+        width: 50%;
+    }
+    .gym_headline h1 {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    /* ========login======== */
+    .form-con {
+        padding: 10px 0px;
+        z-index: 0;
+    }
+
+    /* ===========success============ */
+    .order-received {
+        width: 100%;
+        padding: 40px 40px;
+    }
+
+    /* ===========profile============== */
+    .pro-class-listing-time-select {
+        padding-left: 0; 
+        padding-right: 5px;
+    }
+    div#custom-data-table_filter input.form-control.form-control-sm, div#custom-data-table_length select.custom-select.custom-select-sm.form-control.form-control-sm {
+       
+        margin-bottom: 20px;
+    }
+    .checkout-banner .contanier  .placeed-order button {
+        padding: 5px 15px;
+        font-size: 12px;
+    }
+    .home_ourr_event {
+        height: 360px;
+    }
+    .password_reset_Count input {
+        width: 100%;
+    }
+    .password_reset_Count button {
+        width: 100%;
+    }
+
+}
+    @media only screen and (max-width:380px){
+        .pro-class-listing-time-select select#cars {
+            width: 150px;
+        }
+        .pro-class-listing-time-select input {
+            width: 150px;
+        }
+    }
+    @media only screen and (max-width:369px){
+    .about_cart_new_desjd {
+        width: 100%;
+    }
+    .about_slider_con .slide_show {
+        width: 100%;
+        height: 300px;
+    }
+    .heder_login_text a.nav-link.login {
+            position: relative;
+            left: 5%;
+        }
+
+    /* =========courses========== */
+    .benner_Courses_page_slider_main_img img {
+        width: 100%;
+        height: 400px;
+    }
+    .Courses_slider_name text {
+        font-size: 10px;
+    }
+
+    /* ==============profile============ */
+   
+ 
+}
+    @media only screen and (max-width:575px){
+        
+        .heder_login_text a.nav-link.login {
+            position: relative;
+            left: 2%;
+        }
+        
+        .about_Our_Vision{
+            margin-top: 50px;
+        }
+        .about_slider_con .slide_show {
+            width: 100%;
+            height: 300px;
+        }
+        .Courses_slider_all .row>* {
+            width: 50% !important;
+            margin: auto;
+        }
+        
+        .benner_Courses_page_slider_main_img img {
+            width: 100%;
+            height: 300px;
+        }
+        .about-us-content {
+            width: 100%;
+            padding: 0px 10px 20px 0px;
+            margin-top: 100px;
+        }
+        /* =========course-details========== */
+
+        .home_baneer_slider_main_grid img {
+            height: 300px;
+        }
+        .gym_headline {
+            padding: 10px 0;
+        }
+
+        /* ========footer======== */
+        .footer_logo img {
+            top: 0px;
+        }
+        /* ===========home========= */
+        
+        .home_our_schedule_title h1 {
+            margin-bottom: 20px;
+        }
+
+        /* ========power-body========== */
+        
+        .choose-your-subscription {
+            margin-top: 20px;
+            width: 100%;
+           margin: 10px;
+        }
+        .gym_headline h1 {
+            padding: 0px;
+            line-height: 0;
+        }
+        .choose-your-subscription .your-subscription .choose-month .month-option {
+            width: 100%;
+        }
+        .choose-your-subscription .your-subscription .card-add-to button {
+            width: 100%;
+        }
+        .choose-your-subscription .your-subscription hr {
+            width: 100%;
+        }
+        /* =========success====== */
+        .success-page-count-align h1 {
+            font-size: 20px;
+        }
+        .profile_headlinens {
+            display: block;
+        }
+        .pro-class-dox {
+            width: 100%;
+        }
+        .pro-class-listing-time-select {
+            margin-top: 20px;
+        }
+        .pro-class-dox {
+            display:block;
+        }
+        .pro-class-listing-time-select input {
+            width: 100%;
+        }
+        
+
+    }
+
+    @media only screen and (max-width:700px){
+
+        .benner_Courses_page_slider_main_img img {
+            width: 100%;
+            height: 300px;
+        }
+        .benner_Courses_page_slider_main_cont {
+            top: 60%;
+        }
+        /* ========power-body========== */
+        .owl-carousel .owl-item img {
+            height: 100%;
+        }
+        /* =========success============ */
+        .success-page-count-align p {
+            font-size: 10px;
+        }
+        li.nav-item.cart_counter_header {
+            cursor: pointer;
+            position: absolute;
+            right: 20%;
+        }
+        .fancybox-skin {
+            padding: 8px !important;
+        }
+        .fancybox-wrap.fancybox-desktop.fancybox-type-image.fancybox-opened {
+            width: 90% !important;
+        }
+        .fancybox-skin {
+            left: 6% !important;
+        }
+        
+
+    }
+
+    @media only screen and (max-width:490px){
+    .about_cart_new_desjd {
+        width: 100%;
+    }
+    .about_slider_con .slide_show {
+        width: 100%;
+        height: 354px;
+    }
+    .about_Our_Vision{
+        margin-top: 30px;
+    }
+    /* ==============event============ */
+  
+    .benner_Courses_page_slider_main_img img {
+        width: 100%;
+        height: 250px;
+    }
+    /* ============power-body============= */
+    .choose-your-subscription {
+        margin-top: 20px;
+        width: 100%;
+       margin: 10px;
+    }
+    .gym_headline h1 {
+        padding: 0px;
+        line-height: 0;
+    }
+    .choose-your-subscription .your-subscription .choose-month .month-option {
+        width: 100%;
+    }
+    .choose-your-subscription .your-subscription hr {
+        width: 100%;
+    }
+    .choose-your-subscription .your-subscription .card-add-to button {
+        width: 100%;
+    }
+    .Courses_slider_all .row>* {
+        width: 50% !important;
+        margin: auto;
+    }
+    /* ============gallery============ */
+    .fancybox-img img {
+        object-fit: cover;
+        height: 200px;
+        width: 200px;
+    }
+    .fancybox-img {
+        object-fit: cover;
+        height: 200px;
+        width: 200px;
+    }
+    .book_a_class_new_add_time_date ul li .time-select {
+        margin: 5px;
+        margin-bottom: 20px;
+    }
+    .book_a_class_new_add_time_date ul li {
+        display: block;
+    }
+    .book_a_class_new_add_time_date ul li .time-select {
+        width: 100%;
+    }
+    .pro-class-listing-time-select select#course_id1 {
+        width: 100%;
+    }
+
+}
+
+@media only screen and (max-width:434px){
+
+    .home_Event .home_our_schedule_title {
+        margin-top: 40px;
+    }
+
+    .home_Event .col-sm-4 {
+        margin: auto;
+        display: grid;
+        justify-content: center;
+    }
+    
+    /* ===========success========= */
+    .success-page-count-align p {
+        font-size: 8px;
+    }
+    .order-received {
+        width: 100%;
+        padding: 10px 10px;
+    }
+    .book-course-btn {
+        width: 90px;
+        font-size: 10px !important;
+    }
+    .profile_tables th {
+        line-height: 15px;
+    }
+    .checkout-banner .contanier .checkout-page {
+        padding-top: 0;
+        width: 100%;
+        overflow-x: scroll !important;
+    }
+    .home_Event .home_our_schedule_title {
+        padding-top: 0px;
+    }
+        
+    
+
+}
+
